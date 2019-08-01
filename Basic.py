@@ -28,5 +28,3 @@ print("second commit")
 
 
 #i am added new line
-
-#venkatesh added new line
