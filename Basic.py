@@ -25,3 +25,6 @@ plt.show()
 
 print("second commit")
 #added new line
+
+
+#i am added new line
