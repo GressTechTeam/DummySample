@@ -26,3 +26,4 @@ plt.show()
 #i am adding new line to git
 #i am added throght vscode  here
 
+#now i am creating test file and merged here 
