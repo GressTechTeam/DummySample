@@ -10,8 +10,8 @@ plt.plot(A,B ,color='green' ,linewidth=5,linestyle='dotted' )
 plt.show()
 
 # c=20
-# d=30
-# print(c+d)
+# d=30 ggg
+# print(c+d) 
 
 
 # i am added new text
