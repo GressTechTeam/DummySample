@@ -11,7 +11,7 @@ plt.show()
 
 # c=20
 # d=30 ggg
-# print(c+d) nmm
+# print(c+d) 
 
 
 # i am added new text
