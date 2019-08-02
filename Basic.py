@@ -21,5 +21,5 @@ plt.show()
 #again venky added foe testing
 
 #i am adding new line to git
-#i am added throght vscode 
+#i am added throght vscode  here
 
