@@ -21,11 +21,5 @@ plt.show()
 #again venky added foe testing
 
 #i am adding new line to git
-
-
-#addnew line
-
-print("second commit")
-#added new line
-
+#i am added throght vscode 
 
